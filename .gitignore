@@ -1,0 +1,38 @@
+# Ignore Visual Studio temporary files, build results, and caches
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache folders
+.vs/
+*.vsidx
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+bin/
+obj/
+
+# CMake build folders
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs
+*.log
+
+# Other temporary files
+*.tlog
+*.tmp
+*.cache
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
