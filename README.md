@@ -6,12 +6,19 @@ It features a login system, product management, and a student reservation module
 📂 Project Structure
 GUI SOFT DEV/
 │── ADD PRODUCT.cpp / .h / .resx      # Product management module
+
 │── BAO RTU HUB STUDENT.cpp / .h / .resx  # Student reservation module
+
 │── BAO RTU HUB.cpp / .h / .resx      # Main reservation system
+
 │── LOGIN.cpp / .h / .resx            # Login form
+
 │── GUI SOFT DEV.vcxproj              # Visual Studio project file
+
 │── GUI SOFT DEV.vcxproj.filters      # Visual Studio filters
+
 │── Assets/                           # Images and logos
+
 │    ├── BAU.jpg
 │    ├── black.jpg
 │    ├── frontgp.png
