@@ -5,6 +5,7 @@ It features a login system, product management, and a student reservation module
 
 📂 Project Structure
 GUI SOFT DEV/
+
 │── ADD PRODUCT.cpp / .h / .resx      # Product management module
 
 │── BAO RTU HUB STUDENT.cpp / .h / .resx  # Student reservation module
@@ -20,9 +21,13 @@ GUI SOFT DEV/
 │── Assets/                           # Images and logos
 
 │    ├── BAU.jpg
+
 │    ├── black.jpg
+
 │    ├── frontgp.png
+
 │    └── rtu_logo.png
+
 └── README.md
 
 🚀 Features
